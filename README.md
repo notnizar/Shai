@@ -1,22 +1,38 @@
-Salaries Dataset Analysis
-Description
+  # Salaries Dataset Analysis
+  
+## Description
 The Salaries dataset provides comprehensive information about the employees' compensation in an organization. It includes various details such as the salary of each employee, their job titles, departments, and other relevant information like experience level, education, and employment history within the organization.
 
-Features
-Id: Unique identifier for each employee.
-EmployeeName: Name of the employee.
-JobTitle: Title of the job held by the employee.
-BasePay: Basic pay of the employee.
-OvertimePay: Pay received for overtime work.
-OtherPay: Other forms of compensation received.
-Benefits: Benefits provided to the employee.
-TotalPay: Total salary received by the employee.
-TotalPayBenefits: Total compensation including benefits.
-Year: The year of the compensation record.
-Notes: Additional notes, if any.
-Agency: Agency or department of the employee.
-Status: Employment status (e.g., Full-time, Part-time).
-Tasks
+## Features
+- Id: Unique identifier for each employee.
+ 
+- EmployeeName: Name of the employee.
+
+- JobTitle: Title of the job held by the employee.
+
+- BasePay: Basic pay of the employee.
+
+- OvertimePay: Pay received for overtime work.
+
+- OtherPay: Other forms of compensation received.
+
+- Benefits: Benefits provided to the employee.
+
+- TotalPay: Total salary received by the employee.
+
+- TotalPayBenefits: Total compensation including benefits.
+
+- Year: The year of the compensation record.
+
+- Notes: Additional notes, if any.
+
+- Agency: Agency or department of the employee.
+
+- Status: Employment status (e.g., Full-time, Part-time).
+
+## Tasks
+
+
 1. Basic Data Exploration
 Identify the dataset's dimensions (rows and columns).
 Determine the data types of each column.
